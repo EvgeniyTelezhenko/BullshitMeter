@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "FF83A7FB-B962-43A7-B4FD-C85954E4D9D4"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "07BFA3B1-2B3E-4491-B287-9DDCBF6C7DC1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Classes/BusinessLogic/Services/Session/SessionService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "updateSession(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "07BFA3B1-2B3E-4491-B287-9DDCBF6C7DC1 - 7b99b4dc694b4e92"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BullshitMeter.SessionService.updateSession(with: BullshitMeter.User) -&gt; ()"
+                  moduleName = "BullshitMeter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/LittleiOSDev/RonasIT/bullshit-meter-ios/Classes/BusinessLogic/Services/Session/SessionService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "55">
+               </Location>
+               <Location
+                  uuid = "07BFA3B1-2B3E-4491-B287-9DDCBF6C7DC1 - 160eae1795e8a194"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "protocol witness for BullshitMeter.SessionServiceProtocol.updateSession(with: BullshitMeter.User) -&gt; () in conformance BullshitMeter.SessionService : BullshitMeter.SessionServiceProtocol in BullshitMeter"
+                  moduleName = "BullshitMeter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/LittleiOSDev/RonasIT/bullshit-meter-ios/Classes/BusinessLogic/Services/Session/SessionService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "55">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A3B07999-3FF2-4DD3-A036-2298143EDAA2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Classes/Presentation/Modules/NewsList/Cells/ArticleCollectionViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "105"
+            endingLineNumber = "105"
+            landmarkName = "init(frame:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C5FBF40A-C1CE-4D3C-8633-C5550C1E88B1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Classes/Presentation/Modules/NewsList/NewsListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "260"
+            endingLineNumber = "260"
+            landmarkName = "collectionView(_:willDisplay:forItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "506329E1-ED51-4B0A-8AFA-EE5CBE618571"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../Users/evgenijtelezenko/Library/Developer/Xcode/DerivedData/BullshitMeter-bkazcntchdchzdgozawljhqsuucg/SourcePackages/checkouts/networking/Sources/Services/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "send(_:responseSerializer:success:failure:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4DAB3F8B-E9E6-481B-B220-D701B157A336"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Classes/Core/Extensions/Networking/Networking+Combine.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "promiseRequest(endpoint:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4DAB3F8B-E9E6-481B-B220-D701B157A336 - 354a8eb0b156c79d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (A) -&gt; () in closure #1 ((Swift.Result&lt;A, Swift.Error&gt;) -&gt; ()) -&gt; () in (extension in BullshitMeter):Networking.NetworkService.promiseRequest&lt;A where A: Swift.Decodable&gt;(endpoint: Networking.Endpoint) -&gt; Combine.Future&lt;A, Swift.Error&gt;"
+                  moduleName = "BullshitMeter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/LittleiOSDev/RonasIT/bullshit-meter-ios/Classes/Core/Extensions/Networking/Networking+Combine.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "142">
+               </Location>
+               <Location
+                  uuid = "4DAB3F8B-E9E6-481B-B220-D701B157A336 - 83846f370970815a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "generic specialization &lt;BullshitMeter.User&gt; of closure #1 (A) -&gt; () in closure #1 ((Swift.Result&lt;A, Swift.Error&gt;) -&gt; ()) -&gt; () in (extension in BullshitMeter):Networking.NetworkService.promiseRequest&lt;A where A: Swift.Decodable&gt;(endpoint: Networking.Endpoint) -&gt; Combine.Future&lt;A, Swift.Error&gt;"
+                  moduleName = "BullshitMeter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/LittleiOSDev/RonasIT/bullshit-meter-ios/Classes/Core/Extensions/Networking/Networking+Combine.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "116">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "71B47836-67F3-43CB-93DD-AA8971C20522"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Classes/Presentation/Modules/NewsList/NewsListPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "91"
+            endingLineNumber = "91"
+            landmarkName = "update(animated:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "71B47836-67F3-43CB-93DD-AA8971C20522 - 11c04ee3c805c2b0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (BullshitMeter.User) -&gt; () in BullshitMeter.NewsListPresenter.init(state: BullshitMeter.NewsListState, dependencies: BullshitMeter.HasArticlesService &amp; BullshitMeter.HasProfileService &amp; BullshitMeter.HasSessionService) -&gt; BullshitMeter.NewsListPresenter"
+                  moduleName = "BullshitMeter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/LittleiOSDev/RonasIT/bullshit-meter-ios/Classes/Presentation/Modules/NewsList/NewsListPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "213">
+               </Location>
+               <Location
+                  uuid = "71B47836-67F3-43CB-93DD-AA8971C20522 - 8aa1e08124522f5f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BullshitMeter.NewsListPresenter.update(animated: Swift.Bool) -&gt; ()"
+                  moduleName = "BullshitMeter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/LittleiOSDev/RonasIT/bullshit-meter-ios/Classes/Presentation/Modules/NewsList/NewsListPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "71B47836-67F3-43CB-93DD-AA8971C20522 - 600a207d7784c321"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BullshitMeter.NewsListPresenter.viewDidLoad() -&gt; ()"
+                  moduleName = "BullshitMeter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/LittleiOSDev/RonasIT/bullshit-meter-ios/Classes/Presentation/Modules/NewsList/NewsListPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "47">
+               </Location>
+               <Location
+                  uuid = "71B47836-67F3-43CB-93DD-AA8971C20522 - 36d749ae33d58cba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (BullshitMeter.ArticleData) -&gt; () in BullshitMeter.NewsListPresenter.loadNextpage() -&gt; ()"
+                  moduleName = "BullshitMeter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/LittleiOSDev/RonasIT/bullshit-meter-ios/Classes/Presentation/Modules/NewsList/NewsListPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "461">
+               </Location>
+               <Location
+                  uuid = "71B47836-67F3-43CB-93DD-AA8971C20522 - 3534db43be5ec61d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (BullshitMeter.ArticleData) -&gt; () in BullshitMeter.NewsListPresenter.(getFirstPageArticles in _CF9423C8A39D66FDCEC2BD42A98CF015)() -&gt; ()"
+                  moduleName = "BullshitMeter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/LittleiOSDev/RonasIT/bullshit-meter-ios/Classes/Presentation/Modules/NewsList/NewsListPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "174">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "923EA9B5-0369-4E9E-A639-EE2E7AE9B863"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Classes/Presentation/Modules/NewsList/NewsListPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "loadNextpage()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A5A92BDC-7520-4CAA-A69C-8D75BC9F355D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Classes/Presentation/Modules/NewsList/Cells/ArticleCellModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "init(article:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A5A92BDC-7520-4CAA-A69C-8D75BC9F355D - 97b924aa55a1e77e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BullshitMeter.ArticleCellModel.init(article: BullshitMeter.Article) -&gt; BullshitMeter.ArticleCellModel"
+                  moduleName = "BullshitMeter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/LittleiOSDev/RonasIT/bullshit-meter-ios/Classes/Presentation/Modules/NewsList/Cells/ArticleCellModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "467">
+               </Location>
+               <Location
+                  uuid = "A5A92BDC-7520-4CAA-A69C-8D75BC9F355D - f7cacd3f6ca18ab3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BullshitMeter.NewsListViewModel.init(state: BullshitMeter.NewsListState) -&gt; BullshitMeter.NewsListViewModel"
+                  moduleName = "BullshitMeter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/LittleiOSDev/RonasIT/bullshit-meter-ios/Classes/Presentation/Modules/NewsList/Cells/ArticleCellModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "875">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
